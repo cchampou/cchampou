@@ -1,7 +1,6 @@
 # Active member of the self.dev community !
 
-<img width="403" alt="self_dev" src="https://github.com/cchampou/cchampou/assets/23266335/90da4446-fdfb-4f0a-8f6c-2a382f954f4a">
-
+![self_dev_v1](https://github.com/cchampou/cchampou/assets/23266335/c5660cb6-331e-49c8-b107-40a858fe980b)
 
 # Work
 
