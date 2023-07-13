@@ -1,3 +1,8 @@
+# Active member of the self.dev community !
+
+<img width="403" alt="self_dev" src="https://github.com/cchampou/cchampou/assets/23266335/90da4446-fdfb-4f0a-8f6c-2a382f954f4a">
+
+
 # Work
 
 👨‍💻 I'm currently working as a Senior Software Engineer and CTO at SPARTED.
