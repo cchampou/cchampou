@@ -4,7 +4,7 @@
 
 # Work
 
-👨‍💻 I'm currently working as a Senior Software Engineer and CTO at SPARTED.
+👨‍💻 I'm currently working as a CTO and Senior Software Engineer at SPARTED.
 
 ![image](https://user-images.githubusercontent.com/23266335/236665315-bab71264-a8fe-4c97-bb90-9a4a9071a41e.png)
 
