@@ -1,6 +1,6 @@
 # Active member of the self.dev community !
 
-![self_dev_v1](https://github.com/cchampou/cchampou/assets/23266335/c5660cb6-331e-49c8-b107-40a858fe980b)
+<a href="https://discord.gg/selfdev"><img src="https://github.com/selfdevs/self-dev-logo/blob/main/2023/self_dev_v1.png" width="300" alt="self.dev logo"/></a>
 
 # Work
 
