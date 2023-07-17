@@ -14,4 +14,4 @@
 
 SPARTED builds mobile learning experiences for companies and their employees.
 
-Thechnologies used there includes NodeJS servers, React-Native baked applications 📱 published on Android and iOS, AWS cloud architecture, managed with Kubernetes, Elastic stack in the ☁️, and much more.
+Technologies used there include NodeJS servers, React-Native applications 📱 published on Android and iOS, AWS cloud architecture, managed with Kubernetes, Elastic stack in the ☁️, and much more.
