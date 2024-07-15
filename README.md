@@ -6,12 +6,4 @@
 
 # Work
 
-👨‍💻 I'm currently working as a CTO and Senior Software Engineer at SPARTED.
-
-<p align="center">
-  <a href="https://www.sparted.com/" target="_blank"><img src="https://user-images.githubusercontent.com/23266335/236665315-bab71264-a8fe-4c97-bb90-9a4a9071a41e.png" width="150" alt="sparted logo"/></a>
-</p>
-
-SPARTED builds mobile learning experiences for companies and their employees.
-
-Technologies used there include NodeJS servers, React-Native applications 📱 published on Android and iOS, AWS cloud architecture, managed with Kubernetes, Elastic stack in the ☁️, and much more.
+👨‍💻 I'm currently working as a Senior React Native Engineer at Hivebrite
