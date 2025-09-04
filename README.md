@@ -1,7 +1,7 @@
 
 # Hello and welcome to my GitHub profile!
 
-I am currently working as a chief technology officer at [Komia](https://komia.io)
+I am currently working as a **chief technology officer** at **[Komia](https://komia.io)!**
 
 <p align="center">
   <a href="https://komia.io" target="_blank">
